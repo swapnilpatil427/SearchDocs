@@ -22,6 +22,13 @@ ranking_method - ranking method to use to rank the documents acording to query.
 tokenization_method - It specifies how you want to tokenise the data in files,
                       current tokenizer supported are "none" "stem" "chargram".
 
+OutPut Format - 
+
+Document ID - Document ID for the document, consider file are sorted.
+Rank of that document with respect to the query.
+
+DocID Rank
+
 
 
 
