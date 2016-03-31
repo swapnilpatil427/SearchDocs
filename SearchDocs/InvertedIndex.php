@@ -154,12 +154,6 @@ class InvertedIndex implements InvertedIndexPartsConst
         $files = glob($dir.'*.*');
         $TotaldocWordCount = 0;
         natsort($files);
-        $htmlProc = new HtmlProcessor([],20000,HtmlProcessor::CENTROID_SUMMARIZER);
-        $content = file_get_contents('test_files/Demo.html');
-        echo $content;
-        $array = $htmlProc->process($content,"http://www.google.com");
-        print_r($array);
-        ///print_r($array);
         try {
             foreach ($files as $file) {
                 ++$this->docCount;
@@ -202,7 +196,6 @@ class InvertedIndex implements InvertedIndexPartsConst
                 ++$doc_count;
             }
             $this->avgDocLength = $TotaldocWordCount/Count($this->docTermCount);
-            echo $this->avgDocLength;
             if (self::$invertedIndex != '') {
                 ksort(self::$invertedIndex);
             }
