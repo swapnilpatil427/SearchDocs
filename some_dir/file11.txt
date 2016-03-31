@@ -1,0 +1,54 @@
+﻿Set up iPad
+· WARNING:  To avoid injury, read Important safety information on page 157 before using iPad.
+With only a Wi-Fi connection, you can easily set up iPad. You can also set up iPad by connecting
+it to a computer and using iTunes (see Connect iPad to your computer on page 18).
+Set up iPad. Turn on iPad, then follow the Setup Assistant.
+The Setup Assistant guides you through the setup process, including:
+• Connecting to a Wi-Fi network
+• Signing in with or creating a free Apple ID (needed for many features, including iCloud,
+FaceTime, the iTunes Store, the App Store, and more)
+• Entering a passcode
+• Setting up iCloud and iCloud and iphone Keychain
+• Turning on recommended features, such as Location Services
+• Activating iPad with your carrier (cellular models)
+You can also restore iPad from an iCloud or iTunes backup during setup. See Back up iPad on
+page 163.
+Note:  Find My iPad is turned on when you sign in to iCloud. Activation Lock is engaged to help
+prevent anyone else from setting up your iPad, even if it is completely restored. Before you sell
+or give away your iPad, you should reset it to erase your personal content and turn off Activation
+Lock. See Sell or give away iPad on page 165.
+Sign up for cellular service
+If your iPad has an Apple SIM card (available on iPad models with cellular and Touch ID), you can
+choose a carrier and sign up for cellular service right on iPad. Depending on your home carrier
+and your destination, you may also be able to travel abroad with iPad and sign up for cellular
+service with a carrier in the country you’re visiting. This isn’t available in all areas and not all
+carriers are supported; contact your carrier for more information.
+Sign up for cellular service. Go to Settings > Cellular Data, then tap Set Up Cellular Data and
+follow the onscreen instructions.
+Set up cellular service in another country. When traveling to another country, you can choose
+a local carrier rather than roaming. Go to Settings > Cellular Data, tap Choose a Data Plan, then
+select the plan you want to use.
+Apple SIM card kits are available for purchase at Apple Retail locations in countries with
+participating carriers.
+Chapter 2 Get started 15
+Connect to Wi-Fi
+If appears at the top of the screen, you’re connected to a Wi-Fi network. iPad reconnects
+anytime you return to the same location.
+Configure Wi-Fi. Go to Settings > Wi-Fi, then turn Wi-Fi on or off. (You can also turn Wi-Fi on
+or off in Control Center.)
+• Choose a network:  Tap one of the listed networks, then enter the password, if asked.
+• Ask to join networks:  Turn on Ask to Join Networks to be prompted when a Wi-Fi network
+is available. Otherwise, you must manually join a network when a previously used network
+isn’t available.
+• Join a closed network:  Tap Other, then enter the name of the network. You need to know the
+network name, security type, and password.
+• Adjust the settings for a Wi-Fi network:  Tap next to a network. You can set an HTTP proxy,
+define static network settings, turn on BootP, or renew the settings provided by a DHCP server.
+• Forget a network:  Tap next to a network you’ve joined before, then tap Forget this Network.
+Set up your own Wi-Fi network. If you have a new or unconfigured AirPort base station turned
+on and within range, you can use iPad to set it up. Go to Settings > Wi-Fi, then look for Set up an
+AirPort base station. Tap your base station and Setup Assistant does the rest.
+Manage your AirPort network. If iPad is connected to an AirPort base station, go to Settings >
+Wi-Fi, tap next to the network name, then tap Manage this Network. If you haven’t yet
+downloaded AirPort Utility, tap OK to open the App Store, then download it (this requires an
+Internet connection).

@@ -1,0 +1,22 @@
+ {
+     "name": "cpollett/test_composer",
+     "description": "test out installing yioop as a required package",
+     "authors": [
+         {
+             "name": "Chris Pollett",
+             "email": "chris@pollett.org"
+         }
+     ],
+     "repositories": [
+         {
+             "type": "vcs",
+             "url": "http://seekquarry.com/git/yioop.git"
+         }
+     ],
+     "config": {
+        "secure-http": false
+     },
+     "require": {
+         "seekquarry/yioop": ">=3.3.0"
+     }
+ }

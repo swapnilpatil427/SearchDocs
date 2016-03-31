@@ -1,0 +1,82 @@
+Buttons
+Most of the buttons you use with iPhone are virtual ones on the touchscreen. A few physical
+buttons control basic functions, such as turning iPhone on or adjusting the volume.
+Sleep/Wake button
+When you’re not using iPhone, press the Sleep/Wake button to lock iPhone. Locking iPhone puts
+the display to sleep, saves the battery, and prevents anything from happening if you touch the
+screen. You can still get phone calls, FaceTime calls, text messages, alarms, and notifications. You
+can also listen to music and adjust the volume.
+ On iPhone 6 and iPhone 6 Plus, the Sleep/Wake button is on the right side:
+Sleep/Wake
+button
+Sleep/Wake
+button
+On earlier iPhone models, the Sleep/Wake button is on the top edge:
+Sleep/Wake
+button
+Sleep/Wake
+button
+iPhone locks automatically if you don’t touch the screen for a minute or so. To adjust the timing,
+go to Settings > General > Auto-Lock.
+Turn iPhone on. Press and hold the Sleep/Wake button until the Apple logo appears.
+Unlock iPhone. Press either the Sleep/Wake or Home button, then drag the slider.
+Turn iPhone off. Press and hold the Sleep/Wake button until the slider appears, then drag
+the slider.
+For additional security, you can require a passcode to unlock iPhone. Go to Settings > Touch ID
+& Passcode (iPhone models with Touch ID) or Settings > Passcode (other models). See Use a
+passcode with data protection on page 44.
+Home button
+The Home button takes you to the Home screen and provides other convenient shortcuts. On
+the Home screen, tap any app to open it.
+See apps you’ve opened. Double-click the Home button when iPhone is unlocked. See Start at
+home on page 23.
+Use Siri or Voice Control. Press and hold the Home button. See Chapter 4, Siri, on page 48 and
+Voice Control on page 33.
+Chapter 1 iPhone at a glance 13
+On iPhone models with Touch ID, you can use the sensor in the Home button to read your
+fingerprint, instead of using your passcode or Apple ID password to unlock iPhone or make
+purchases in the iTunes Store, App Store, and iBooks Store. See Touch ID on page 44. If you have
+iPhone 6 or iPhone 6 Plus, you can also use the Touch ID sensor for authentication when using
+Apple Pay to make a purchase in a store or from within an app. See Touch ID on page 44 and
+Apple Pay on page 132.
+You can also use the Home button to turn accessibility features on or off. See Accessibility
+Shortcut on page 151.
+Volume controls
+When you’re on the phone or listening to songs, movies, or other media, the buttons on the side
+of iPhone adjust the audio volume. Otherwise, the buttons control the volume for the ringer,
+alerts, and other sound effects.
+WARNING:  For important information about avoiding hearing loss, see Important safety
+information on page 183.
+Volume
+up
+Volume
+up
+Volume
+down
+Volume
+down
+Lock the ringer and alert volumes. Go to Settings > Sounds, then turn off Change with Buttons.
+To limit the volume for music and videos, go to Settings > Music > Volume Limit.
+Note:  In some European Union (EU) countries, iPhone may warn that you’re setting the volume
+above the EU recommended level for hearing safety. To increase the volume beyond this level,
+you may need to briefly release the volume control. To limit the maximum headset volume
+to this level, go to Settings > Music > Volume Limit, then turn on EU Volume Limit. To prevent
+changes to the volume limit, go to Settings > General > Restrictions.
+Use Control Center to adjust the volume. When iPhone is locked or when you’re using another
+app, swipe up from the bottom edge of the screen to open Control Center.
+You can also use either volume button to take a picture or record a video. See Take photos and
+videos on page 94.
+Ring/Silent switch
+Flip the Ring/Silent switch to put iPhone in ring mode or silent mode .
+Ring
+Silent
+In ring mode, iPhone plays all sounds. In silent mode, iPhone doesn’t ring or play alerts and other
+sound effects (but iPhone may still vibrate).
+Chapter 1 iPhone at a glance 14
+Important:  Clock alarms, audio apps such as Music, and many games play sounds through the
+built-in speaker, even when iPhone is in silent mode. In some areas, the sound effects for Camera
+and Voice Memos are played, even if the Ring/Silent switch is set to silent.
+For information about changing sound and vibration settings, see Sounds and silence on
+page 36.
+Use Do Not Disturb. You can also silence calls, alerts, and notifications using Do Not Disturb.
+Swipe up from the bottom edge of the screen to open Control Center, then tap
